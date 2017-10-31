@@ -1,0 +1,6 @@
+cd TestRepo
+git status
+git add .
+git status
+git commmit -m "MEssage"
+git push origin master
