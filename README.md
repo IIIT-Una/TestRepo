@@ -15,4 +15,4 @@ Mamimum package is 10Lakhs/p.a.
 For more information about NIT Hamirpur, one can visit the official website of the Institute at www.nith.ac.in
 Thank You for visiting this project.
 
-Hi, this is Mratyunjay Soni.
+Hi, this is Mratyunjay.
