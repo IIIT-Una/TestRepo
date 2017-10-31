@@ -10,6 +10,7 @@ National Institute of Technology, Hamirpur has been entrusted the responsibility
 
 This year ,our first batch(2014) is going to gradurate and we're very excited about it.
 As of now, 15% of our batch has been placed.
+Mamimum package is 10Lakhs/p.a.
 
 For more information about NIT Hamirpur, one can visit the official website of the Institute at www.nith.ac.in
 Thank You for visiting this project.
