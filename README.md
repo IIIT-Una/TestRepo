@@ -1,2 +1,2 @@
 # TestRepo
-Test repo for beginners.
+Test repo for beginners coders.
